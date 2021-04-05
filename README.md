@@ -6,6 +6,9 @@ Hi there 👋, my name is Max and I am a full-stack developer from Munich curren
 ### What I am looking for
 I am currently looking for a job as Full Stack Developer👨‍💻 - preferable in Belin. Remote work or partial remote work in Vienna, Munich or Zurich would be great as well.
 
+### My latest projects
+You are very welcome to check out my last group project Decks https://github.com/draguhn/decks as well as my last solo project Virtual-Wine-Tasting https://github.com/draguhn/virtual-wine-tasting-app 
+
 ### My favorites
 ![image](https://user-images.githubusercontent.com/54434107/113600410-47b43d80-9640-11eb-8485-e079a58480d9.png)
 
