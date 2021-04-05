@@ -7,7 +7,7 @@ Hi there 👋, my name is Max and I am a full-stack developer from Munich curren
 I am currently looking for a job as Full Stack Developer👨‍💻 - preferable in Belin. Remote work or partial remote work in Vienna, Munich or Zurich would be great as well.
 
 ### My favorites
-https://github.com/smartin88/smartin88/blob/main/logos_nodejs.svg 
+![image](https://user-images.githubusercontent.com/54434107/113599914-96ada300-963f-11eb-863b-e9bf2ad463fe.png)
 
 ### In the past
 I have a Master's Degree in Engineering and was working in the pharmaceutical industry💊 for 4 years where I was mainly responsible for Change Controls and Deviation Management (CAPAs). Additionally I worked as a Blue Belt Coach (Six Sigma) to teach others the art of problem solving.
