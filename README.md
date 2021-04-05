@@ -1,7 +1,6 @@
-### Hi there 👋
-
+![soroush-karimi-crjPrExvShc-unsplash (2)](https://user-images.githubusercontent.com/54434107/113595700-aa560b00-9639-11eb-92cf-9330d5dace63.jpg)
 ### What I do
-I am a full-stack developer from Munich currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I have a special focus on JavaScript, React and Express. I have a particular interest in the front-end and building stylish, functional and user-friendly websites. I have a good eye on design and I like combining creativity with my problem-solving skills. Other technologies I have worked with are TypeScript, Redux, Node, MongoDB, Mongoose, PostgreSQL, Sequelize.
+Hi there 👋, my name is Max and I am a full-stack developer from Munich currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I have a special focus on JavaScript, React and Express. I have a particular interest in the front-end and building stylish, functional and user-friendly websites. I have a good eye on design and I like combining creativity with my problem-solving skills. Other technologies I have worked with are TypeScript, Redux, Node, MongoDB, Mongoose, PostgreSQL, Sequelize.
 
 ### What I am looking for
 I am currently looking for a job as Full Stack Developer👨‍💻 - preferable in Belin. Remote work or partial remote work in Vienna, Munich or Zurich would be great as well.
