@@ -1,4 +1,5 @@
-![soroush-karimi-crjPrExvShc-unsplash (2)](https://user-images.githubusercontent.com/54434107/113595700-aa560b00-9639-11eb-92cf-9330d5dace63.jpg)
+![image](https://user-images.githubusercontent.com/54434107/113596675-f2c1f880-963a-11eb-9515-d49d838f07f9.png)
+
 ### What I do
 Hi there 👋, my name is Max and I am a full-stack developer from Munich currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I have a special focus on JavaScript, React and Express. I have a particular interest in the front-end and building stylish, functional and user-friendly websites. I have a good eye on design and I like combining creativity with my problem-solving skills. Other technologies I have worked with are TypeScript, Redux, Node, MongoDB, Mongoose, PostgreSQL, Sequelize.
 
