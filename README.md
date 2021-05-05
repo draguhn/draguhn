@@ -16,4 +16,4 @@ You are very welcome to check out my last group project Decks https://github.com
 I have a Master's Degree in Engineering and was working in the pharmaceutical industry💊 for 4 years where I was mainly responsible for Change Controls and Deviation Management (CAPAs). Additionally I worked as a Blue Belt Coach (Six Sigma) to teach others the art of problem solving.
 
 ### Beside work
-I enjoy urban life and culture but also being out in nature for hiking - I love Mountains🗻 and the Sea 🌊. I have a passion for good food and cooking and I like reading and learning new languages🌍.
+I enjoy urban life and culture but also being out in nature for hiking - I love Mountains🗻 and the Sea 🌊. I have a passion for good food and cooking and I like reading and learning new languages🌍..
